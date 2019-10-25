@@ -1,1 +1,2 @@
 - [Honey Salad Dressing](0000-honey-salad-dressing.md)
+- [Red Lentils & Coconut](0001-red-lentil-and-coconut.md)
